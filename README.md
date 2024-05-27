@@ -43,9 +43,8 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
     <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <br/><br/>
-
- 
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
