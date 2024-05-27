@@ -7,7 +7,7 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 [![INSTA](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deodato-sebasti%C3%A3o-luzayadio-594050252/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deodatosebastiao765/)
 
-![Deodato Sebastião GitHub stats](https://github-readme-stats.vercel.app/api?username=DeodatoSebasti1&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### 👨‍💻 FERRAMENTAS E TECNOLOGIAS UTILIZADAS 👨‍💻:
 
