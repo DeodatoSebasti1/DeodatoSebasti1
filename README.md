@@ -25,8 +25,6 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=compact)
-
 ##### 📚ESTUDANDO ACTUALMENTE📚:
 ![FIGMAA](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![FIGMAA](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -39,4 +37,5 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 ![FIGMAA](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FIGMAA](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=compact)
 
