@@ -8,7 +8,6 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deodatosebastiao765/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeodatoSebasti1&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ##### 👨‍💻 FERRAMENTAS E TECNOLOGIAS UTILIZADAS 👨‍💻:
 
 <div style="display: inline-block"> <br/>
@@ -47,6 +46,6 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 
  
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
