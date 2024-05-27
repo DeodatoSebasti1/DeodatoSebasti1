@@ -10,7 +10,7 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 
 ![Deodato Sebastião GitHub stats](https://github-readme-stats.vercel.app/api?username=DeodatoSebasti1&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=compact)
+
 
 ##### 👨‍💻 FERRAMENTAS E TECNOLOGIAS UTILIZADAS 👨‍💻:
 
@@ -24,6 +24,8 @@ Olá! Chamo-me Deodato Sebastião🇦🇴, estudante de Engenharia Informática,
 ![FIGMAA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeodatoSebasti1&layout=compact)
 
 ##### 📚ESTUDANDO ACTUALMENTE📚:
 ![FIGMAA](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
